@@ -1,5 +1,5 @@
 
-1. создать ключ: ssh-keygen -t ed25519 -C "hadiev.ram@gmail.com"
+1. создать ключ: ssh-keygen -t ed25519 -C "почта@gmail.com"
 2. попросит ввести пароль для этого ключа
 3. файл сохранится в "C:\Users\Admin\.ssh\id_ed25519.pub"
 
